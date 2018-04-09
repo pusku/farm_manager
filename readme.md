@@ -1,5 +1,5 @@
-<p align="center">Farm Manager</p>
-an incomplete management app for an agro company.
+<p align="center">Farm Manager: an incomplete management app for an agro company.</p>
+
 
 
 ## License
