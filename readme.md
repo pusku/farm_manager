@@ -1,4 +1,5 @@
-<p align="center">Farm Manager: an incomplete management app for an agro company.</p>
+##Farm Manager
+<p>an incomplete management app for an agro company.</p>
 
 
 
